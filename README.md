@@ -32,7 +32,7 @@ Project created by <a href="https://github.com/nijin-husni">nijin-husni</a> to m
 
   ### Deploy server 2
  
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HUSNI-SIR/MAALUTTY_DEPLOY)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/snapshot9084/MAALUTTY_V3)
 
 ### The Hard Method
 ```js
