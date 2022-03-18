@@ -6,7 +6,7 @@
   "scripts": {
     "start": "supervisor -s bot.js"
   },
-  "repository": {
+  "repository": "https://github.com/snapshot9084/MAALUTTY_V3"
     "type": "git",
     "url": "git+https://github.com/nijin-husni/MAALUTTY_V3.git"
   },
